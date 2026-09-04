@@ -1,0 +1,67 @@
+This assessment is basically asking you to build a small Python application that runs in the terminal/command prompt.
+
+You have three choices:
+Campus Resource Booking: Manage rooms, equipment, study pods, bookings, cancellations, etc.
+Community Outreach Activity Logger: Record community activities, volunteers, hours, locations, and impact.
+Personal Budget & Savings Tracker: Record income, expenses, categories, savings goals, and monthly summaries.
+
+--------------------------------------------
+===== PERSONAL BUDGET TRACKER =====
+--------------------------------------------
+1. Add expense
+2. View expenses
+3. Update expense
+4. Delete expense
+5. Search expenses
+6. Show total expenses
+7. Show expenses by category
+8. Exit
+
+Enter your choice: 
+--------------------------------------------
+
+Your application must have:
+
+Add/Create records
+View records
+Update records
+Delete records
+Search or Filter records
+At least 2 analysis/report features
+
+For example, in a budget application:
+
+Add an expense
+View all expenses
+Update an expense
+Delete an expense
+Search expenses by category
+Calculate total spending
+Show spending by category
+
+
+Where do you save the data?
+You are not using a database yet. For this assignment, save your data in either: JSON, or CSV/TXT
+
+
+What Python concepts are you expected to use?
+This project is designed to show that you understand what we have learned so far.
+
+You should be using:
+
+Variables
+if/elif/else
+for and while loops
+Functions
+Lists
+Dictionaries
+Searching and filtering
+Basic calculations
+Input validation
+try/except
+JSON and/or CSV
+Multiple Python files/modules
+
+You do not need to use classes or object-oriented programming for this assignment.
+
+

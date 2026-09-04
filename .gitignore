@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+
+# App writes here while testing — keep sample in git instead
+data/budget_data.json
